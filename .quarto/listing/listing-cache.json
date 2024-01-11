@@ -1,0 +1,11 @@
+{
+  "listingMap": {
+    "index.qmd": [
+      "posts",
+      "extra.qmd"
+    ],
+    "extra.qmd": [
+      "extra.qmd"
+    ]
+  }
+}
